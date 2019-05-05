@@ -16,7 +16,7 @@ module.exports = {
    {
       resolve: `gatsby-source-drupal`,
       options: {
-        baseUrl: `http://www.lurman.com/`,
+        baseUrl: `http://54.184.118.45/`,
         apiBase: `api`, // optional, defaults to `jsonapi`
       },
     },
