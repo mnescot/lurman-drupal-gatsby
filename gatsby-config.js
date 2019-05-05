@@ -17,7 +17,7 @@ module.exports = {
       resolve: `gatsby-source-drupal`,
       options: {
         baseUrl: `http://54.184.118.45/`,
-        apiBase: `api`, // optional, defaults to `jsonapi`
+        apiBase: `jsonapi`, // optional, defaults to `jsonapi`
       },
     },
     `gatsby-transformer-sharp`,
